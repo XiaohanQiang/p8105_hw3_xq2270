@@ -1,0 +1,20 @@
+---
+title: "p8105_hw3_xq2270"
+author: "Xiaohan Qiang"
+date: "2026-10-19"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(p8105.datasets)
+
+knitr::opts_chunk$set(
+  echo = TRUE,
+  results = "hide",
+  warning = FALSE,
+  message = FALSE
+)
+
+theme_set(theme_minimal())
+```
